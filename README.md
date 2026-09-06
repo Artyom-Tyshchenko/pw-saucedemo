@@ -2,6 +2,8 @@
 
 Page Object Model: `pages/` — классы страниц, `tests/` — сами тесты.
 
+📋 [Тест-план и чек-листы](./TEST_PLAN.md)
+
 ## Установка (Windows / PowerShell)
 
 ```powershell
